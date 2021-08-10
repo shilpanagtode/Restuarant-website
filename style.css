@@ -1,0 +1,27 @@
+body{
+  background-color: #000;
+}
+.navi ul li {
+  display: inline;
+  color: #fff;
+  margin: 50px;
+  z-index: 4;
+font-family: 'Ranchers', cursive;}
+
+.back1{
+  background-image: url("../image/1.jpg");
+  background-repeat: no-repeat;
+  min-height: 700px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.back2{
+  background-image: url("../image/2.jpg");
+  background-repeat: no-repeat;
+  min-height: 700px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+}
